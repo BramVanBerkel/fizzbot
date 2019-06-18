@@ -48,3 +48,21 @@ Check out the [Ruby script](./fizz.rb) and try to beat Fizzbot at its own game.
 Do you have a favorite language? We'd love to see your solution.
 
 More about Fizzbot and all of the other Noops here: https://noopschallenge.com/challenges/fizzbot
+
+### Usage
+Clone the repository:
+```shell
+git clone https://github.com/BramVanBerkel/fizzbot.git
+```
+cd in the folder:
+```shell
+cd fizzbot
+```
+Install dependencies:
+```shell
+composer install
+```
+Run it!
+```shell
+php fizzBot.php
+```
