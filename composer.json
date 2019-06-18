@@ -1,0 +1,14 @@
+{
+    "name": "bramvanberkel/fizzbot",
+    "description": "noopschallenge.com Fizzbot",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Bram van Berkel",
+            "email": "bramvanberkel.prive@gmail.com"
+        }
+    ]
+}
